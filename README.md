@@ -30,4 +30,4 @@ pytest tests/ -v
 - `requests` - отправка HTTP-запросов к сайту
 - `beautifulsoup4` - парсинг HTML-страниц
 - `schedule` - планирование автоматического запуска парсера
-- `pytest` - фреймворк для тестирования
+- `pytest` - фреймворк для тестирования"# Test change for PR" 
